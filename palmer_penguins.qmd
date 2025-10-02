@@ -1,7 +1,6 @@
 ---
-title: "palmer_penguins"
-format: html
-subtitle: 'Palmer Penguins write-up'
+title: "Palmer Penguins write up"
+subtitle: 'Introduction to Quarto'
 author: "Cameron Keatinge"
 format:
   html:
@@ -40,7 +39,7 @@ require(kableExtra)
 # Put any library imports and other preamble here.
 ```
 
-This Rmarkdown document is intended to provide a basic template that you may use throughout the course, and to introduce you to basic functionality of the open-source bookdown R package for writing Rmarkdown documents [@xie2016bookdown].
+This Rmarkdown document is my first Quarto file, analysing the palmer penguins dataset [@casella2024statistical]
 
 Please note:
 
